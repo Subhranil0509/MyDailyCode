@@ -1,5 +1,3 @@
-//Write a C program to find the sum of first 10 naturl number.
-
 #include<stdio.h>
 int main()
 {
